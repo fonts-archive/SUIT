@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'SUIT';
@@ -12,7 +12,7 @@ font-family: 'SUIT';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/SUIT/SUIT.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/SUIT/SUIT.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -121,4 +121,14 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SUIT/SUIT-Heavy.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/SUIT/SUIT-Heavy.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+SUIT―수트는 오픈소스입니다. SIL Open Font License에 따라 개인 또는 기업이 영리적, 비영리적 목적으로 자유롭게 사용할 수 있습니다. 
+단, SUIT를 단독 판매하면 안 됩니다. 한글 타입페이스는 본고딕을 기반으로 합니다. 
+SUIT에 대한 제안 및 문의는 이메일로 보내주세요.
 ```
